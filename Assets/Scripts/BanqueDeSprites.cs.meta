@@ -1,0 +1,41 @@
+fileFormatVersion: 2
+guid: 2ad0a346ee0fe06468001e588de57453
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - WarriorSprite: {fileID: -1589372820964305909, guid: 4416d7ff2d5042b40a118cf957819cef,
+      type: 3}
+  - ArcherSprite: {fileID: 6531032587530556139, guid: 4416d7ff2d5042b40a118cf957819cef,
+      type: 3}
+  - WizardSprite: {fileID: 8297681375285260090, guid: e1fc8b1ccd8df7845b571e937c5decd4,
+      type: 3}
+  - SlimeSprite: {fileID: 52336361092944977, guid: 60d4e6ba9cfcf204fbaf1a4467df8be7,
+      type: 3}
+  - ForestSprite: {instanceID: 0}
+  - WallSprite: {fileID: 6668613264706671585, guid: 4416d7ff2d5042b40a118cf957819cef,
+      type: 3}
+  - TileSprite: {fileID: 21300000, guid: 79d9106130319444b9ce697069df808f, type: 3}
+  - _baseCharacter: {fileID: 7826577841053081773, guid: 2d6ec2db11a6df043b00c53bb6a78f95,
+      type: 3}
+  - _nextLevelUI: {fileID: 4931032769432476042, guid: 38e5e098e3b6f1c47b48213040308ac1,
+      type: 3}
+  - _giftedUI: {fileID: 2561920884403948453, guid: 0ed329a0654fc20488a88da5792800f6,
+      type: 3}
+  - _wizardIdleAnimation: {fileID: 9100000, guid: d683d9b1786c1d54f977c1cc134f536d,
+      type: 2}
+  - _slimeAnimatorController: {fileID: 9100000, guid: a93f061d99e2d6748936ca29d5aca157,
+      type: 2}
+  - _warriorAnimatorController: {fileID: 9100000, guid: 72cdecef86db4f7448155dfadf6fff28,
+      type: 2}
+  - _SlimeUIAnimation: {fileID: 9100000, guid: c1d0f12bbd0c6774e9dd04b8842ea736, type: 2}
+  - _WarriorUIAnimation: {fileID: 9100000, guid: 5fb53b8423b8f4c45bc095477efb9743,
+      type: 2}
+  - _ArcherUIAnimation: {instanceID: 0}
+  - _WizardUIAnimation: {fileID: 9100000, guid: c5bf4b4167881434e9b7775a3482a6fa,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
